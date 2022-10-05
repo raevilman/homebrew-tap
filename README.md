@@ -8,4 +8,4 @@
 
 ## Create your own formulae
 
-Watch the tutorial here 👉 https://youtu.be/HkIlWwKg6F 
+Watch the tutorial here 👉 https://youtu.be/Oe0DOpG0GpQ
