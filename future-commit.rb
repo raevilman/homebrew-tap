@@ -17,13 +17,13 @@ class FutureCommit < Formula
 
   def install
     if OS.mac?
-      bin.install "future_commit-macos" => "future_commit"
+      bin.install "future_commit-macos" => "future-commit"
     else
-      bin.install "future_commit-linux" => "future_commit"
+      bin.install "future_commit-linux" => "future-commit"
     end
   end
 
   test do
-    system "#{bin}/future_commit"
+    system "#{bin}/future-commit"
   end
 end
